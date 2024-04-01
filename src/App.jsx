@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Stefan Grebler",
-  title: "Schüler der EDV-Schule Plattling | Microsoft Learn Student Ambassador Alpha",
+  title: "Microsoft Learn Student Ambassador Alpha",
   email: "stefan.grebler@studentambassadors.com",
   gitHub: "Grebs-Media",
   instagram: "",

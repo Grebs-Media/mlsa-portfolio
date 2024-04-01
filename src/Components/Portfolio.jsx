@@ -31,28 +31,28 @@ const imageAltText = "Schreibtisch mit vielen Utensilien";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Build a new data center from scratch",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "In my first internship I helped to build a new data center from scratch at a small company called Geneart AG, now better known as Thermo Fisher.",
+    url: "https://www.thermofisher.com/de/de/home.html",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Use of AI- and ML-Tools to forecast products",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "As project manager I lead a diverse team of five people, who realizes a forecast solution for the whole product range of Brita Vivreau.",
+    url: "https://www.brita.de/wasserspender",
   },
   {
-    title: "My Resume Site",
+    title: "Deliver trainings througout Germany",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "As a trainer and facilitator I deliver several topics like leadership, sales, PowerPoint, Excel and PowerBI trainings to students.",
+    url: "https://bdsu.de/trainerakademie/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Development of a mobile app for a train company",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "As project leader I was responsible for an IT team of four people, who developed a mobile app for dispatchers to a regional train company.",
+    url: "https://www.agilis.de/",
   },
 ];
 
